@@ -1,2 +1,2 @@
 # Omicra
-Multi-Omics Integration Using Deep Learning
+Multi-Model Software for Deep Learning-Based Complex Multi-Omics Data Analysis
